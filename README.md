@@ -9,6 +9,7 @@ This repository DOES NOT include code required to interface the ADALM-PLUTO Rev 
 Code for interfacing the ADALM-PLUTO Rev C SDRs with the Raspberry Pi 5B can be found at:
 
 https://github.com/SL-UAV-MQP/pi_C_code2 
+
 https://github.com/SL-UAV-MQP/pi_C_code
 
 All code in this repository and related repositories is a portion of materials for a Major Qualifying Project (MQP), submitted to the faculty of Worcester Polytechnic Institute (WPI) in partial fulfillment of the requirements for the Degree of Bachelor of Science in Electrical and Computer Engineering as completed by John Frahm, Carthene McTague, Ann Phan, Heath Sainio, and John Song.
